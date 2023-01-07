@@ -12,7 +12,7 @@ def Space(j):
 
 print "  _                                                                              "
 
-print "|thes script by Toxic Dz ofc |insta @toxic_dz_ofc|  2 word scrapper on free fire  |   "
+print "|thes script by Toxic Dz ofc |insta @toxic_dz_ofc|  3 word png scrapper on free fire  |   "
 
 print " |  Toxic Tool |first tool of gettin link on free fire   | FF Try linking my account to Gmail  "
 
